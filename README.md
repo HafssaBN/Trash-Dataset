@@ -1,2 +1,8 @@
 # Trash-Dataset
-Free to use 
+
+It contains trash of 4 classes :
+
+Paper
+Metal
+Glass
+Plastic
